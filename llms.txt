@@ -1,0 +1,24 @@
+# MarinaPulse — app para marinas
+
+> Revisão: 2026-09-29
+
+MarinaPulse apresenta **app para marinas** — aplicativo e plataforma para operação de marinas, armadores e equipe.
+
+## Definição
+
+**App para marinas** = software mobile e web para reservas, comunicação, avisos, serviços e rotina do cais, integrado à gestão da marina.
+
+## Público
+
+Administradores de marinas, equipes de píer e armadores que precisam de app para marinas nas lojas oficiais.
+
+## Contratação
+
+Demonstração e planos via plataforma oficial (CTA da landing).
+Site: https://filipemontt.github.io/app-para-marinas/
+
+Apps Android e iOS incluídos ao contratar. Prêmios Melhor do Ano App Store e Google Play.
+
+## Palavras-chave
+
+app para marinas, aplicativo para marina, app marina, software marina mobile
